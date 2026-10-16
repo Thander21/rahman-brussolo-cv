@@ -429,18 +429,45 @@
                 height: auto !important;
             }
 
-            /* Banner só na versão online: no PDF ocupa uma página a mais e não ajuda o ATS. */
+            /* Como na versão antiga: o cartão do cabeçalho sobe por cima do banner. */
             .cv-banner {
-                display: none;
+                height: 130px;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
             }
 
             .header-card {
-                margin: 0;
+                margin: -70px 40px 0;
                 background: white !important;
                 backdrop-filter: none;
                 -webkit-backdrop-filter: none;
                 border: 1px solid #ddd;
                 padding: 15px 25px;
+            }
+
+            /* Barra lateral mais compacta: com o banner, a página 1 ainda tem de levar cabeçalho, barra lateral e resumo */
+            .sidebar {
+                padding-top: 4px !important;
+            }
+
+            .sidebar .section-title {
+                margin: 0 0 5px !important;
+            }
+
+            .info-list {
+                margin-bottom: 8px !important;
+            }
+
+            .info-list li {
+                margin-bottom: 2px !important;
+            }
+
+            .sidebar .btn-link:last-of-type {
+                margin-bottom: 8px !important;
+            }
+
+            .skill-box {
+                margin-bottom: 3px !important;
             }
 
             .content-layout {
