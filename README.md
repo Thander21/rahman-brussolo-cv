@@ -19,7 +19,7 @@ Desenvolvedor OutSystems Certificado · Flutter · Python
 
 ## Resumo
 
-Analista Funcional no SPMS e Engenheiro Agêntico, com base técnica de desenvolvedor OutSystems certificado. São mais de 20 anos em tecnologia, 11 deles como CEO da Sampa TI, a traduzir necessidades de clientes em sistemas, automações e processos. Falo a língua do negócio e sei o que a equipa de desenvolvimento precisa de receber para construir.
+Analista Funcional no SPMS e Engenheiro Agêntico, com base técnica de desenvolvedor web/mobile e DevOps, certificado em OutSystems. São mais de 20 anos em tecnologia, 11 deles como CEO da Sampa TI, a traduzir necessidades de clientes em sistemas, automações e processos. Falo a língua do negócio e sei o que a equipa de desenvolvimento precisa de receber para construir.
 
 * **Análise funcional:** levantamento e especificação de requisitos, modelação de processos em BPMN 2.0 e UML e documentação de regras de negócio, hoje em portais e aplicações do SNS.
 * **Engenharia agêntica com método:** agentes de IA no desenvolvimento, sempre a partir de uma especificação (Spec-Driven Development + TDD), com quality gates automáticos e revisão humana antes de qualquer merge.
