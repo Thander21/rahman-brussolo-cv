@@ -80,7 +80,8 @@
         }
 
         .header-card {
-            margin: 40px 40px 0;
+            margin: -60px 40px 0;
+            position: relative;
             background: var(--glass);
             backdrop-filter: blur(20px) saturate(160%);
             -webkit-backdrop-filter: blur(20px) saturate(160%);
@@ -322,6 +323,19 @@
             letter-spacing: -0.4px;
         }
 
+        .role-note {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        .cv-banner {
+            display: block;
+            width: 100%;
+            height: 170px;
+            object-fit: cover;
+            object-position: center;
+        }
+
         .comp-name a {
             color: var(--accent);
             text-decoration: none;
@@ -413,6 +427,11 @@
                 border: none;
                 overflow: visible !important;
                 height: auto !important;
+            }
+
+            /* Banner só na versão online: no PDF ocupa uma página a mais e não ajuda o ATS. */
+            .cv-banner {
+                display: none;
             }
 
             .header-card {
@@ -729,6 +748,8 @@
 
     <div class="cv-page">
 
+        <img class="cv-banner" src="banner.jpg" alt="">
+
         <header class="header-card">
             <div class="profile-photo">
                 <img src="Rahman.jpg" alt="Rahman Profile">
@@ -885,7 +906,7 @@
                                 <span class="comp-name">SPMS, EPE | Serviços Partilhados do Ministério da Saúde</span>
                                 <span class="exp-date">Ago 2026 — Presente</span>
                             </div>
-                            <b class="role-name">Analista Funcional</b>
+                            <b class="role-name">Analista Funcional</b> <span class="role-note">· em outsourcing, via consultora</span>
                             <ul class="exp-list">
                                 <li><b>Análise funcional</b>: análise de aplicações e portais digitais do SNS, traduzindo necessidades de negócio em requisitos claros e executáveis.</li>
                                 <li><b>Modelação de processos</b>: fluxos de utentes e profissionais de saúde em BPMN 2.0 e UML, com as regras de negócio documentadas.</li>
@@ -912,7 +933,7 @@
                                 <span class="comp-name">NOS</span>
                                 <span class="exp-date">Jul 2025 — Ago 2026</span>
                             </div>
-                            <b class="role-name">Especialista de Suporte Técnico / Infraestrutura</b>
+                            <b class="role-name">Especialista de Suporte Técnico / Infraestrutura</b> <span class="role-note">· em outsourcing, via consultora</span>
                             <ul class="exp-list">
                                 <li><b>Monitorização</b>: acompanhamento dos jobs críticos de faturação e ativação com Zabbix e resposta a incidentes em ambiente de telecomunicações.</li>
                                 <li><b>Acessos e incidentes</b>: gestão de acessos privilegiados com CyberArk e suporte especializado em ambiente corporativo.</li>
