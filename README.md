@@ -19,7 +19,7 @@ Desenvolvedor OutSystems Certificado · Flutter · Python
 
 ## Resumo
 
-Analista Funcional no SPMS e Engenheiro Agêntico, com base técnica de desenvolvedor OutSystems certificado. São 25 anos em tecnologia, 11 deles como CEO da Sampa TI, a traduzir necessidades de clientes em sistemas, automações e processos. Falo a língua do negócio e sei o que a equipa de desenvolvimento precisa de receber para construir.
+Analista Funcional no SPMS e Engenheiro Agêntico, com base técnica de desenvolvedor OutSystems certificado. São mais de 20 anos em tecnologia, 11 deles como CEO da Sampa TI, a traduzir necessidades de clientes em sistemas, automações e processos. Falo a língua do negócio e sei o que a equipa de desenvolvimento precisa de receber para construir.
 
 * **Análise funcional:** levantamento e especificação de requisitos, modelação de processos em BPMN 2.0 e UML e documentação de regras de negócio, hoje em portais e aplicações do SNS.
 * **Engenharia agêntica com método:** agentes de IA no desenvolvimento, sempre a partir de uma especificação (Spec-Driven Development + TDD), com quality gates automáticos e revisão humana antes de qualquer merge.
@@ -46,10 +46,9 @@ Detalhes de cada cargo no [CV online](https://thander21.github.io/rahman-brussol
 
 ## Formação
 
-* Bacharelado em Engenharia de Software, Unigra EAD (em curso)
 * Tecnólogo em Gestão de TI, Fanor (concluído em 2012)
 * OutSystems Associate Reactive Developer (certificação OutSystems)
-* Cibersegurança: fundamentos de SOC
+* Curso de Cibersegurança: fundamentos de SOC
 
 ---
 
